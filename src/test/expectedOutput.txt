@@ -1,0 +1,10 @@
+Welcome to the Metrolink Program!
+Station list:
+(List each station on it's own line with a number assigned to each station).
+(List each station on it's own line with a number assigned to each station).
+(List each station on it's own line with a number assigned to each station).
+What station are you currently at?  Please enter the station's number.
+I'm sorry, that is not a valid station number.  Please try again.
+What station are you currently at?  Please enter the station's number.
+Station #3: Shrewsbury Station.
+The next train will arrive in 5 minutes.
